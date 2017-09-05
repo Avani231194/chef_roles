@@ -1,0 +1,8 @@
+default['escluster']['hostip'] = "192.168.33.10"
+default['escluster']['nodename'] = "master"
+default['escluster']['master'] = "true"
+default['escluster']['data'] = "false"
+default['escluster']['masterip'] = "192.168.33.10"
+default['escluster']['dataip'] = "192.168.33.11"
+default['escluster']['clientip'] = "192.168.33.12"
+default['escluster']['clustername'] = "production"

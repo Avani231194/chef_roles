@@ -1,0 +1,5 @@
+default['sonar']['name']= "sonarqube"
+default['sonar']['pass'] = "password"
+default['sonar']['property_path']="/opt/sonarqube/conf"
+default['sonar']['service']="/etc/init.d"
+default['sonar']['context']="/sonar"

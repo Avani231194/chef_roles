@@ -1,0 +1,5 @@
+default['mysql']['name']= "anam"
+default['mysql']['password'] = "mysql"
+default['mysql']['username'] = "root"
+default['mysql']['userpassword'] = "password"
+default['mysql']['db_name']  = "testdb1"
